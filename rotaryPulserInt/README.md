@@ -1,6 +1,5 @@
 # rotaryPulserInt
 rotaryPulser based on ATmega328 using Timer1 interrupt
-<p>Specifications by JDJ Electronics / JD Engeneers
 <p>Firmware by Willem Aandewiel
 
 ## uses:
